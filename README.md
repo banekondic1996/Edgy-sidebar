@@ -3,7 +3,7 @@ Edge sidebar alternative, that works on Windows.<br>
 On Linux it works, but Wayland doesn't allow click trough transparent yet, until i make workaround <br>
 Old thing I made for random person on Discord (not vibe coded), cause he complained he misses Edge sidebar. <br>
 I made it, but didn't post it until now (11.14.2025) <br>
-This will be used for my desktop shell for Linux.
+This will be used for my desktop shell for Linux.<br>
 <br>
 **Demo in Windows (Virtual Machine):**<br>
 ![2025-11-14_13-50-30](https://github.com/user-attachments/assets/5d6dd7f5-9a28-4cd0-b4b4-1f911e641cad)
