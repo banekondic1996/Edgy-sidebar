@@ -1,4 +1,4 @@
-# <img src='edgylogo.png' width=62px heigh=62px> Edgy Sidebar (Windows & Linux)
+# <img src='edgylogo.png' width=62px heigh=62px> Edgy Sidebar (Windows)
 Edge sidebar alternative, that works on Windows.<br>
 On Linux it works, but Wayland doesn't allow click trough transparent yet, until i make workaround <br>
 Old thing I made for random person on Discord (not vibe coded), cause he complained he misses Edge sidebar. <br>
